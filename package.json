@@ -1,0 +1,20 @@
+{
+  "name": "how-to-make",
+  "version": "1.0.0",
+  "description": "Olá.Esqueceu como Centralizar uma div, imagem ou até texto? Agorá com uma CLI que te ajuda.\r Feita em NodeJS ela irá te ajudar em qualquer coisa\r # Setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkB0M/How-To-Make.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkB0M/How-To-Make/issues"
+  },
+  "homepage": "https://github.com/DarkB0M/How-To-Make#readme"
+}
