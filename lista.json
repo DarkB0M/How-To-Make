@@ -1,0 +1,16 @@
+{
+  "nomes":{ 
+       "lista":{
+        "tutorial":"Exibe A Lista De Comandos",
+        "center":"Aprenda a Centralizar Uma Div",
+        "node":"Aprenda O Basico Sobre o NODEJS",
+        "NPM":"Aprenda O Basico Sobre o NPM",
+        "Yarn":"Aprenda O Basico Sobre o YARN",
+        "Deno":"Aprenda O Basico Sobre o Deno",
+        "TypeScript":"Aprenda as Diferenças entre o TypeScript E o JavaScript",
+        "FrontEND":"Saiba o que é front-end",
+        "BackEND":"Saiba O basico de BackEND",
+        "FullStack":"Saiba O basico de Oque Full-Stack e como ser um"
+    }
+}
+}

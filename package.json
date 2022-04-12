@@ -4,11 +4,14 @@
   "description": "Olá.Esqueceu como Centralizar uma div, imagem ou até texto? Agorá com uma CLI que te ajuda.\r Feita em NodeJS ela irá te ajudar em qualquer coisa\r # Setup",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "executado com sucesso (1)"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DarkB0M/How-To-Make.git"
+  },
+  "bin": {
+    "how": "index.js"
   },
   "keywords": [],
   "author": "",
@@ -16,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/DarkB0M/How-To-Make/issues"
   },
-  "homepage": "https://github.com/DarkB0M/How-To-Make#readme"
+  "homepage": "https://github.com/DarkB0M/How-To-Make#readme",
+  "dependencies": {
+    "chalk": "2.4.2",
+    "commander": "2.19.0"
+  }
 }
